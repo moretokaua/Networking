@@ -1,0 +1,33 @@
+    *{
+        padding: 0;
+        margin: 0;
+        outline: 0;
+        box-sizing: border-box;
+    }
+
+    html,body{
+        font-size: 62.5%;
+        font-family: 'Times New Roman', Times, serif;
+        text-rendering: optimizeLegibility
+    }
+
+    h1{
+        color: red;
+        font-size: 5rem;
+    }
+
+    h2{
+        color: darkgreen;
+        font-size: 4rem;
+    }
+
+    p{
+        font-style: italic;
+        font-weight: bolder;
+        font-size: 3rem;
+    }
+
+    #title{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: darkgray;
+    }    
